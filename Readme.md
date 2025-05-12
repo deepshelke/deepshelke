@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
-- 🌱 I’m currently learning **C# & Unity**
+- 🌱 I’m currently learning **PySpark & Micro Strategy**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Data Enginnering**
 
 - 📫 How to reach me **shelkedeep260@gmail.com**
 
