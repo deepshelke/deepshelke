@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Shelke</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate data engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 - 🌱 I’m currently learning **PySpark & Micro Strategy**
