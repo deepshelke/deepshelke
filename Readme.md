@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepshelke&theme=react-dark&hide_border=true&area=true" alt="Deep's contribution graph" />
+  <img src="https://ghchart.rshah.org/deepshelke" alt="Deep's GitHub contributions" />
 </p>
