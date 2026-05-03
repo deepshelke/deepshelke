@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/deepshelke/deepshelke/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepshelke&show_icons=true&theme=react&hide_border=true&include_all_commits=true" />
 </p>
