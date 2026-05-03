@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **Data Enginnering**
 
-- 📫 How to reach me **deepshelke0225@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
