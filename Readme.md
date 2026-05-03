@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/deepshelke" alt="Deep's GitHub contributions" />
+  <img src="https://green-wall.vercel.app/api/contribution?username=deepshelke&theme=dark" />
 </p>
