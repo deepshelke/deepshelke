@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.pumbas.net/api/contributions/deepshelke?colour=39D353&bgColour=161B22&dotColour=1a1a2e" />
+  <img src="https://ghchart.rshah.org/deepshelke" alt="Deep's GitHub contributions" />
 </p>
