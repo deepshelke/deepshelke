@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/deepshelke/deepshelke/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/deepshelke/deepshelke/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
 </p>
