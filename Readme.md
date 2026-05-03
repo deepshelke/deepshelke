@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/deepshelke" alt="Deep's GitHub contributions" />
+  <img src="https://github.com/deepshelke/deepshelke/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
