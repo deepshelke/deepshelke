@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepshelke&show_icons=true&theme=react&hide_border=true&include_all_commits=true" />
+  <img src="https://ghchart.rshah.org/deepshelke" alt="Deep's GitHub contributions" />
 </p>
