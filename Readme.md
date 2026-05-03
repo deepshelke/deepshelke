@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshelke&show_icons=true&locale=en&layout=compact" alt="deepshelke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshelke&" alt="deepshelke" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepshelke&show_icons=true&locale=en&layout=compact" alt="deepshelke" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshelke&" alt="deepshelke" height="150" />
+</p>
