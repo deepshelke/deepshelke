@@ -56,5 +56,5 @@
 </p>
 
 <p align="center">
-  <img src="https://green-wall.vercel.app/api/contribution?username=deepshelke&theme=dark" />
+  <img src="https://github.pumbas.net/api/contributions/deepshelke?colour=39D353&bgColour=161B22&dotColour=1a1a2e" />
 </p>
